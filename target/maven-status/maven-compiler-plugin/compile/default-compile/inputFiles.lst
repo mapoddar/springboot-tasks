@@ -1,7 +1,0 @@
-/home/cgi/java_asgn/springboot-tasks/spring-boot-tasks-master/src/main/java/com/stackroute/muzixtrack/repository/TrackRepository.java
-/home/cgi/java_asgn/springboot-tasks/spring-boot-tasks-master/src/main/java/com/stackroute/muzixtrack/service/TrackService.java
-/home/cgi/java_asgn/springboot-tasks/spring-boot-tasks-master/src/main/java/com/stackroute/muzixtrack/config/WebConfiguration.java
-/home/cgi/java_asgn/springboot-tasks/spring-boot-tasks-master/src/main/java/com/stackroute/muzixtrack/controller/TrackController.java
-/home/cgi/java_asgn/springboot-tasks/spring-boot-tasks-master/src/main/java/com/stackroute/muzixtrack/domain/Track.java
-/home/cgi/java_asgn/springboot-tasks/spring-boot-tasks-master/src/main/java/com/stackroute/muzixtrack/MuzixTrackApplication.java
-/home/cgi/java_asgn/springboot-tasks/spring-boot-tasks-master/src/main/java/com/stackroute/muzixtrack/service/TrackServiceImpl.java

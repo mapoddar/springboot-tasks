@@ -1,7 +1,0 @@
-com/stackroute/muzixtrack/MuzixTrackApplication.class
-com/stackroute/muzixtrack/service/TrackServiceImpl.class
-com/stackroute/muzixtrack/repository/TrackRepository.class
-com/stackroute/muzixtrack/service/TrackService.class
-com/stackroute/muzixtrack/controller/TrackController.class
-com/stackroute/muzixtrack/config/WebConfiguration.class
-com/stackroute/muzixtrack/domain/Track.class
